@@ -1,0 +1,6 @@
+{
+  "name": "Kuest",
+  "description": "Chronos Event Client: Secure, responsive portrait interface for biometric media extraction, vector geographic overlays, and cooperative bundle pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
